@@ -1,0 +1,87 @@
+# FreezePoint — Generative Engine Optimization Map
+
+> A בריאות ואורח חיים business.
+
+---
+
+## Pages
+
+### Home
+https://freezepoint-5b6d94e1.zappy5.app
+
+### Ritual
+https://freezepoint-5b6d94e1.zappy5.app/ritual
+
+### Science & Safety
+https://freezepoint-5b6d94e1.zappy5.app/science
+
+### Contact
+https://freezepoint-5b6d94e1.zappy5.app/contact
+
+### Products
+https://freezepoint-5b6d94e1.zappy5.app/products
+המוצרים שלנו - FreezePoint
+
+### Cart
+https://freezepoint-5b6d94e1.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://freezepoint-5b6d94e1.zappy5.app/checkout
+תשלום
+
+### Login
+https://freezepoint-5b6d94e1.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://freezepoint-5b6d94e1.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://freezepoint-5b6d94e1.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://freezepoint-5b6d94e1.zappy5.app/product/:slug
+פרטי המוצר - FreezePoint
+
+### Category
+https://freezepoint-5b6d94e1.zappy5.app/category/:slug
+מוצרים - FreezePoint
+
+## Legal & Policy
+
+### Privacy Policy
+https://freezepoint-5b6d94e1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://freezepoint-5b6d94e1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://freezepoint-5b6d94e1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FreezePoint
+FreezePoint is a business in the בריאות ואורח חיים industry.
+
+## Target Audience
+- ספורטאים לשיפור ביצועים
+- ביוהאקרים וחובבי בריאות
+- בעלי בתים יוקרתיים
+
+## Industry
+בריאות ואורח חיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://freezepoint-5b6d94e1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://freezepoint-5b6d94e1.zappy5.app/robots.txt
