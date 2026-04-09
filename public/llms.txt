@@ -1,87 +1,75 @@
-# FreezePoint — Generative Engine Optimization Map
-
-> A בריאות ואורח חיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://freezepoint-5b6d94e1.zappy5.app
+https://example.com
 
 ### Ritual
-https://freezepoint-5b6d94e1.zappy5.app/ritual
+https://example.com/ritual
 
 ### Science & Safety
-https://freezepoint-5b6d94e1.zappy5.app/science
+https://example.com/science
 
 ### Contact
-https://freezepoint-5b6d94e1.zappy5.app/contact
+https://example.com/contact
 
 ### Products
-https://freezepoint-5b6d94e1.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - FreezePoint
 
 ### Cart
-https://freezepoint-5b6d94e1.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://freezepoint-5b6d94e1.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://freezepoint-5b6d94e1.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://freezepoint-5b6d94e1.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://freezepoint-5b6d94e1.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://freezepoint-5b6d94e1.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - FreezePoint
 
 ### Category
-https://freezepoint-5b6d94e1.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - FreezePoint
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://freezepoint-5b6d94e1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://freezepoint-5b6d94e1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://freezepoint-5b6d94e1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About FreezePoint
-FreezePoint is a business in the בריאות ואורח חיים industry.
-
-## Target Audience
-- ספורטאים לשיפור ביצועים
-- ביוהאקרים וחובבי בריאות
-- בעלי בתים יוקרתיים
-
-## Industry
-בריאות ואורח חיים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://freezepoint-5b6d94e1.zappy5.app/sitemap.xml
-- **Robots.txt**: https://freezepoint-5b6d94e1.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
