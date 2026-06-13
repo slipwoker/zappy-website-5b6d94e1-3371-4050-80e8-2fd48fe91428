@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>FreezePoint</title>
+    <link>https://example.com</link>
+    <description>Product feed for FreezePoint</description>
+    <lastBuildDate>Sat, 13 Jun 2026 17:58:27 GMT</lastBuildDate>
+    <item>
+      <g:id>0ca2b6a6-7183-463d-90d1-e8fb9dfed70e</g:id>
+      <g:title>אמבטיה מעץ מושלם</g:title>
+      <g:description>אמבטיה מעץ מושלם</g:description>
+      <g:link>https://example.com/product/ambtyh-mats-mvshlm-vmu7a0</g:link>
+      <g:image_link>https://example.com/assets/product-1770628186778-2yq2rf.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1500.00 ILS</g:price>
+      <g:sale_price>998.98 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FreezePoint</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+  </channel>
+</rss>

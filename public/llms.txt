@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# FreezePoint — Generative Engine Optimization Map
+
+> A בריאות ואורח חיים business.
 
 ---
 
@@ -64,12 +66,37 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+**Total active products: 1**
+
+### אמבטיה מעץ מושלם
+https://example.com/product/ambtyh-mats-mvshlm-vmu7a0
+- Price: 998.98 ILS (sale, was 1500.00 ILS)
+- Availability: In stock
+- Image: https://example.com/assets/product-1770628186778-2yq2rf.webp
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+## About FreezePoint
+FreezePoint is a business in the בריאות ואורח חיים industry.
+
+## Target Audience
+- ספורטאים לשיפור ביצועים
+- ביוהאקרים וחובבי בריאות
+- בעלי בתים יוקרתיים
+
+## Industry
+בריאות ואורח חיים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

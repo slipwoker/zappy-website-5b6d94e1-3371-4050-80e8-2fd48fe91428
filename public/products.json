@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "generated_at": "2026-06-13T17:58:27.501Z",
+  "base_url": "https://example.com",
+  "currency": "ILS",
+  "count": 1,
+  "products": [
+    {
+      "id": "0ca2b6a6-7183-463d-90d1-e8fb9dfed70e",
+      "slug": "ambtyh-mats-mvshlm-vmu7a0",
+      "name": "אמבטיה מעץ מושלם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 998.98,
+      "base_price": 1500,
+      "sale_price": 998.98,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1770628186778-2yq2rf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/ambtyh-mats-mvshlm-vmu7a0",
+      "categories": [],
+      "updated_at": "2026-02-09T09:10:07.470Z"
+    }
+  ]
+}
